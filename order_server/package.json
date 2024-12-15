@@ -1,0 +1,17 @@
+{
+  "name": "order_server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "bullmq": "^5.34.2",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "BullMq Examples",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
